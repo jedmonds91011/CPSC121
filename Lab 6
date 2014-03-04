@@ -1,0 +1,10 @@
+# Lab 6 - Revised
+
+## Setup:
+
+Creata a Visual Studio Project with 'Your Name' and 'Week 6'. 
+Today, we will complete three different excersises.
+
+1. bool.cpp - We will look at different Boolean Expressions and how C++ evaluates them. 
+
+2. broken.cpp - We will look at broken code. Using strategies, we will debug our program 
